@@ -21,7 +21,7 @@
                 "/cast etaercsnoisulli",
                 "/cast tekcajtiarts",
                 "/cast mrasid"
-            ),
+            )
             'buffs': array(
                 "/effect ". @plr ." 21 9999 9 true",
                 "/shot give ". @plr ." magicblast"                
